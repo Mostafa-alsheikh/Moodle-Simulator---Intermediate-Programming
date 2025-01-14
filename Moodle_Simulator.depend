@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1685129593 source:e:\uni\spring_2023\csci112\project\moodle_simulator\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1685129373 e:\uni\spring_2023\csci112\project\moodle_simulator\student.h
+	<iostream>
+	<string>
+
+1685129492 source:e:\uni\spring_2023\csci112\project\moodle_simulator\student.cpp
+	"student.h"
+
+1684949875 e:\uni\spring_2023\csci112\project\moodle_simulator\student.cpp
+	<iostream>
+	<string>
+
